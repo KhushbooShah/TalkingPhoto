@@ -1,5 +1,4 @@
-# TalkingPhoto - Web application developed as a part of curicculum with an aim to help an individual to preserve one's memories 
-(i.e pictures) with voice or words caption in order to relive the moment by hearing the recording every time you open up the picture.
+# TalkingPhoto - Web application developed as a part of curicculum with an aim to help an individual to preserve one's memories (i.e pictures) with voice or words caption in order to relive the moment by hearing the recording every time you open up the picture.
 ------------------------------------------------------------------------------------------------------------------------------------------
 Features : 
 ● Save memories with voice and/or words
